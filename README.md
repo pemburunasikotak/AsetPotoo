@@ -1,0 +1,2 @@
+# AsetPotoo
+isi aset poto
